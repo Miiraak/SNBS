@@ -16,3 +16,4 @@ Suivez simplement l'ordre des "entry" et remplissez les avec vos données.
 Puis pressez "Scrap" pour sauvegarder les données texte selectionnée dans un fichier .txt dans le dossier préalablement choisi
 __________________________________
 
+## Bien que le scraping ne sois pas illégale en sois, faites attention aux méthodes employées ainsi que le site/zone du site en question !
